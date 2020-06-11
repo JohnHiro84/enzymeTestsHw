@@ -1,6 +1,7 @@
 # Enzyme Test Homework
 
 ![hw test](imageMain.png)
+![full coverage](imageFullCoverage.png)
 
 This little project uses Jest and Enzyme to test some basic React Components.
 I wanted to test common components so I tested one that renders some dummy data, a basic
